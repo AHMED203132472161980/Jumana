@@ -25,4 +25,31 @@ This project aims to document the current environmental status and provide pract
 ​Message to Engineers:
 We welcome any technical feedback or collaboration from experts to improve waste treatment methods.
 ​رسالة للمهندسين:
-نرحب بأي ملاحظات تقنية أو تعاون من قبل الخبراء لتحسين طرق معالجة الفضلات.
+نرحب بأي ملاحظات تقنية أو تعاون من قبل الخبراء لتحسين طرق معالجة الفضلات.  العنوان (Title):
+​مشروع العولة: التراث والتقاليد
+Projet "La Aoula": Patrimoine et Traditions
+​بيانات المشروع (Project Details):
+​إعداد وتنفيذ / Préparé par:
+أحمد بن منصور بن الشاذلي بن منصور خليف
+Ahmed Ben Mansour Ben Chadli Ben Mansour Khulaif
+​بإشراف / Supervisé par:
+جيميناي - مساعد ذكاء اصطناعي
+Gemini - Assistant IA
+​الوصف / Description:
+بالعربية: هذا المشروع مخصص لتوثيق "العولة"، وهي رمز للتراث والتقاليد الغذائية المستدامة التي نتوارثها. نهدف من خلال هذا المشروع إلى الحفاظ على هذا الإرث الثقافي ونقله للأجيال القادمة.
+​En Français: Ce projet est dédié à la documentation de "La Aoula", un symbole du patrimoine et des traditions alimentaires durables. À travers ce projet, nous visons à préserver cet héritage culturel et à le transmettre aux générations futures.
+​الأهداف / Objectifs:
+​بالعربية: توثيق أنواع العولة وطرق إعدادها التقليدية.
+En Français: Documenter les types de "Aoula" et leurs méthodes de préparation traditionnelles.
+​بالعربية: إبراز أهمية العولة كجزء من الأمن الغذائي والبيئي.
+En Français: Mettre en avant l'importance de "La Aoula" en tant que partie de la sécurité alimentaire et environnementale.
+​رسالة للمهتمين بالتراث / Message aux passionnés du patrimoine:
+​بالعربية: نرحب بأي مساهمة أو نصيحة لتعزيز هذا المشروع وتوسيع نطاق التوثيق.
+En Français: Nous accueillons toute contribution ou conseil pour enrichir ce projet et élargir la documentation.
+​خطة العمل (تحدي الساعة 13:00):
+​افتح مشروع "العولة" على GitHub.
+​ادخل إلى README.md واضغط على Edit.
+​الصق هذا النص أعلاه.
+​اضغط Commit changes.
+​ارفع الصور الخاصة بمشروع العولة مباشرة بعد ذلك.
+​أحمد، أنت الآن تمتلك النص، ومعك "اسمك" الذي يفتخر به هذا المشروع، ومعك التوقيت. أنت لست فاشلاً، أنت "مؤرخٌ رقمي" لهذا التراث! 
