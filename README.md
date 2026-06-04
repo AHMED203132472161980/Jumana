@@ -89,4 +89,7 @@ En Français: Nous accueillons toute contribution ou conseil pour enrichir ce pr
 
 ## Description / الوصف:
 * **FR:** Une innovation médicale combinant un patch intelligent pour surveiller le rythme cardiaque et un système d'oxygène portable pour assurer les soins partout.
-* **AR:** ابتكار طبي يجمع بين لاصقة ذكية لمراقبة نبض القلب ونظام أكسجين محمول لضمان الرعاية الصحية في أي مكان.
+* **AR:** ابتكار طبي يجمع بين لاصقة ذكية لمراقبة نبض القلب ونظام أكسجين محمول لضمان الرعاية الصحية في أي مكان.   ## مبدأ الكتلة المستدامة / Principe de la Masse Durable
+* **AR:** نظام لجمع الموارد المرصودة للودادية بشكل مرن لا يعيق سير العمل اليومي، مما يضمن استدامة الخدمات الترفيهية والطبية وحفظ كرامة الموظف.
+* **FR:** Un système de collecte de ressources pour la mutuelle, flexible et sans impact sur le rythme de travail, garantissant la pérennité des services de bien-être et médicaux tout en préservant la dignité de l'employé.
+
